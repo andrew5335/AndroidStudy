@@ -39,7 +39,7 @@ public class Main2Activity extends AppCompatActivity {
             public void onClick(View v) {
                 if(allDay.isChecked()) {
                     allDay.setChecked(false);
-                    textArea.setText("놀자 !!!");
+                    textArea.setText("놀자 하하하 !!!");
                 } else {
                     allDay.setChecked(true);
                     textArea.setText("하루 온종일 ~~~");
